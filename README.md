@@ -24,4 +24,4 @@
 
 <a href="https://www.linkedin.com/in/sarahquayyum/"> <img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px"/></a>
 
-<a href="https://dev.to/qymmore"><img align="left" alt="Dev.to" width="26px" margin-top="-20px" src="devto.svg" style="padding-right:10px"/></a>
+<a href="https://dev.to/qymmore"><img align="left" alt="Dev.to" width="26px" src="devto.svg" style="padding-right:10px; margin-top: -4px"/></a>
