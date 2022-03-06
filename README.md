@@ -22,6 +22,6 @@
 
 ## Let's connect!
 
-<img align="left" alt="Linkedin" width="26px" href="https://www.linkedin.com/in/qymmore/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px"/>
+<img align="left" alt="Linkedin" width="26px" href="https://www.linkedin.com/in/sarahquayyum/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px"/>
 
 <img align="left" alt="Dev.to" width="26px" href="https://dev.to/qymmore" src="devto.svg" style="padding-right:10px"/>
