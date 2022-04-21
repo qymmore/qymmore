@@ -3,7 +3,6 @@
 - ❕ I'm currently learning full-stack web development
 - 👾 I like to dabble in machine learning and AI
 - ⛱️ I also have a background in public health and disease prevention
-- 🧩 Fun fact: I love to do art and play puzzle games
 
 ## Languages and Tools I'm currently using and learning:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
