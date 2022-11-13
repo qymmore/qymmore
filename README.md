@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm qymmore (Sarah):
+# 💫 Hi there, I'm Sarah:
 ❕ I'm a full-stack JS developer<br>👾 I'm very interested in machine learning<br>⛱️ Fun fact: I have a background in public health and disease prevention
 
 
