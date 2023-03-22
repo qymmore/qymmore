@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Sarah:
-❕ I'm a full-stack JS developer<br>👾 I'm very interested in machine learning<br>⛱️ Currently learning: Java
+❕ I'm a full-stack JS developer<br>👾 I'm very interested in machine learning<br>
 
 
 # 💻 Tech Stack:
