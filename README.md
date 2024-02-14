@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hi, I'm Sarah 👋🏼</h2><br><h3>A machine learning enthusiast</h3><br><br>🔭 I’m currently working on Medical Imaging and Tissue Damage Detection<br>🤝 I’d like to collaborate on projects in Computer Vision, Diffusion Models, or GANs<br>🌱 I’m currently learning Deep Learning and Image Processing
+<h2>Hi, I'm Sarah 👋🏼</h2><br><h3>A machine learning enthusiast</h3><br><br><h4>🔭 I’m currently working on Medical Imaging and Tissue Damage Detection</h4><br><h4>🤝 I’d like to collaborate on projects in Computer Vision, Diffusion Models, or GANs</h4><br><h4>🌱 I’m currently learning Deep Learning and Image Processing</h4>
 
 
 ## 🌐 Socials:
