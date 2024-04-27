@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h2>Hi, I'm Sarah 👋🏼</h2>
 
-<br>🔭 I'm a researcher working with Multimodal Imaging and Upper Limb Injuries<br>🤝 I’d like to collaborate on projects in Computer Vision, Diffusion Models, or GANs<br>🌱 A project I'm working on is Creating Multi-domain Pre-trained Model for Time Series Forecasting
+<br>I'm a researcher working with Multimodal Imaging and Upper Limb Injuries with an interest in computer vision and NLP
 
 
 ## 🌐 Socials:
